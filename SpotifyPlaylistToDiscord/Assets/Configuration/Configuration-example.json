@@ -1,0 +1,7 @@
+{
+  "token": "DISCORD_TOKEN",
+  "prefix": "COMMAND_PREFIX",
+  "spotifyclientid": "SPOTIFY_APP_CLIENT_ID",
+  "spotifyclientsecret": "SPOTIFY_APP_CLIENT_SECRET",
+  "youtubekey": "YOUTUBE_API_KEY"
+}

@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SpotifyPlaylistToDiscord/Assets/Configuration/Configuration.json
+/SpotifyPlaylistToDiscord/bin/Debug/netcoreapp3.1
+/SpotifyPlaylistToDiscord/obj
+/SpotifyPlaylistToDiscord/Plugins/Lavalink
+/SpotifyPlaylistToDiscord/Plugins/jdk-15.0.1
